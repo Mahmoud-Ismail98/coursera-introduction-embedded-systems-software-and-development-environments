@@ -9,3 +9,11 @@ create a simple application that performs statistical analytics on a dataset. Th
 
 ### Week 2 C1M2
 In this programming assignment i create a build system using the GNU tools, GCC and GNU Make.compile multiple files, link them together and create a final output executable that support two platforms: the host environment and the target embedded system MSP432.
+
+### Week 3 C1M3 
+analyzing some allocated memory using the GCC toolchain
+provide detailsabout  specific symbol elements including:
+* Location Top segment or Type - Code, Data, Peripheral, Register, None
+* Location Sub-segment - Stack, Heap, BSS, Data, const/rodata, None
+* Access Permissions  - Read (R), Write (W) Read-write (RW), None
+* Lifetime - Function/Block, Program, Indefinite, None
