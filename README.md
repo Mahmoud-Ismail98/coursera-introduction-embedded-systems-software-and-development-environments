@@ -1,4 +1,3 @@
-# Author: Mahmoud Korayem
 ## Coursera - Introduction to Embedded Systems Software and Development Environments
 ## University of Colorado Boulder
 
@@ -17,3 +16,10 @@ provide detailsabout  specific symbol elements including:
 * Location Sub-segment - Stack, Heap, BSS, Data, const/rodata, None
 * Access Permissions  - Read (R), Write (W) Read-write (RW), None
 * Lifetime - Function/Block, Program, Indefinite, None
+
+### Course1 final_assessment
+Expanded Build System and Memory
+## Goals
+* Incorporate a c-program application into your Make and GCC build system
+* Write c-program functions that manipulate memory
+* Execute and test your application by simulating it on the host machine
